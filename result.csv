@@ -1,0 +1,13 @@
+,cluster_id,unique_id_x,first_name,last_name,gender,DOB,job_title,job_industry_category,wealth_segment,deceased_indicator,owns_car,addresses,nicks_first_name,unique_id_y
+0,273,273,Nevile,Abraham,Male,4/22/1963,Computer Systems Analyst IV,,Mass Customer,N,No,"['8 Texas Plaza,VIC,3081']",[],3
+1,273,4011,Nevile,Abe,Female,4/22/1963,Computer Systems Analyst IV,,Mass Customer,N,No,[],[],3
+2,273,4010,Nevile,Abe,Male,4/22/1963,Computer Systems Analyst IV,,Mass Customer,N,No,[],[],3
+3,343,343,Nicole,Johananoff,Female,8/14/1957,Recruiter,Property,Affluent Customer,N,No,"['6860 Green Ridge Avenue,NSW,2126' '85 Straubel Park,NSW,2147'
+ '08 Ronald Regan Plaza,NSW,2251']",['nikki' 'nicky' 'cole' 'nicki' 'nole'],5
+4,343,4013,Nikki,Johananoff,Female,8/14/1957,Recruiter,Property,Affluent Customer,N,No,[],[],5
+5,343,4015,Nikki,Adam,Female,8/14/1957,Recruiter,Property,Affluent Customer,N,No,"['6860 Green Ridge Avenue,NSW,2126' '85 Straubel Park,NSW,2147'
+ '08 Ronald Regan Plaza,NSW,2251']",[],5
+6,343,4016,Cole,Johananoff,Female,8/14/1957,Recruiter,Property,Affluent Customer,N,No,[],['colie'],5
+7,343,4014,Nicky,Johana,Female,8/14/1957,Recruiter,Property,Affluent Customer,N,No,[],[],5
+8,2194,2194,Johnette,O'Fergus,Female,9/10/1958,Electrical Engineer,Manufacturing,Affluent Customer,N,Yes,"['9045 Kings Avenue,QLD,4153']",[],2
+9,2194,4004,Johnette,Petrello,Female,9/10/1958,Software Engineer IV,Manufacturing,Affluent Customer,N,Yes,"['02 Fair Oaks Lane,VIC,3977']",[],2
